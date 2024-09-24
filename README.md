@@ -4,3 +4,5 @@ Dedicated to notes from the book "Hands-On Machine Learning with Scikit-Learn & 
 ## links of interest: 
 - https://www.dataquest.io
 - https://www.deeplearning.ai/
+- https://github.com/ageron/handson-ml
+- 
