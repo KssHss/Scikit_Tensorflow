@@ -41,7 +41,7 @@ Most important algorithms:
   — Apriori 
   — Eclat
 
-
+**dimensionality reduction**: to simplify the data without losing too much information. One way to do this is to merge several correla‐ ted features into one. For example, a car’s mileage may be very correlated with its age, so the dimensionality reduction algorithm will merge them into one feature that rep‐ resents the car’s wear and tear =>  feature extraction. 
 
 
 
