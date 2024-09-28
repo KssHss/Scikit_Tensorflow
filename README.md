@@ -9,4 +9,6 @@ Dedicated to notes from the book "Hands-On Machine Learning with Scikit-Learn & 
 - https://petewarden.com/    (tensorflow)
 - https://goo.gl/28ve8z   (tensorflow)
 - https://lukasbiewald.com/
+- https://www.coursera.org/learn/machine-learning/
+- https://www.coursera.org/learn/neural-networks-deep-learning?
 - 
