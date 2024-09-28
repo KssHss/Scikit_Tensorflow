@@ -76,7 +76,7 @@ __If you set a high learning rate, then your system will rapidly adapt to new da
 
 Challenge: bad data ==> you need to monitor your system closely and promptly switch learning off (and possibly revert to a previously working state) if you detect a drop in performance. You may also want to monitor the input data and react to abnormal data (e.g., using an anomaly detection algorithm).
 
-*********************************************Instance-Based Versus Model-Based Learning*******************************  
+******************************************Instance vs Model-Based Learning**********************************************  
 
 how they generalize to instances they never have seen before.(Good performance is good but TRUE GOAL IS TO PERFORM WELL ON NEW INSTANCES)  
 
