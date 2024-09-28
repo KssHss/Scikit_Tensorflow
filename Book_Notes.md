@@ -1,5 +1,5 @@
 # Fundamentals:
-examples that the system uses to learn --> trianing set 
+examples that the system uses to learn --> trianing set  
 each training example --> training instance or sample  
 Spam filter: Performance measured as the ratio of correctly classified emails --> accuracy (used in classification tasks) 
 
@@ -13,8 +13,9 @@ Spam filter: Performance measured as the ratio of correctly classified emails --
 Can be combined: a state-of-the-art spam filter may learn on the fly using a deep neural network model trained using examples of spam and ham; this makes it an online, model- based, supervised learning system.
 
 # Supervised: 
-training data includes labels (desired solutions).
-Classification(spam filter)
+training data includes labels (desired solutions) or predictors.
+* Typical tasks: classification, predict a target numeric value (regression)
+Attribute is data type # feature ~ attribute + value (can be used interchangeably)
 
 
 
