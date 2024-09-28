@@ -12,6 +12,11 @@ Spam filter: Performance measured as the ratio of correctly classified emails --
 
 Can be combined: a state-of-the-art spam filter may learn on the fly using a deep neural network model trained using examples of spam and ham; this makes it an online, model- based, supervised learning system.
 
+# Supervised: 
+training data includes labels (desired solutions).
+Classification(spam filter)
+
+
 
 
 
