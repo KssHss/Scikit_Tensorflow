@@ -17,7 +17,7 @@ training data includes labels (desired solutions) or predictors.
 :Typical tasks: classification, predict a target numeric value (regression)
 Attribute is data type # feature ~ attribute + value (can be used interchangeably)
 
-Most important algorithms: 
+Most important algorithms:
 • k-Nearest Neighbors  
 • Linear Regression  
 • Logistic Regression (commonly used for classification: it can output the probability of belonging to a given class)  
@@ -26,7 +26,20 @@ Most important algorithms:
 • Neural networks (can be unsupervised or semi)  
 
 ### Unsupervised:  
+training data is unlabeled (blog's visitors into clusters)  
 
+Most important algorithms:  
+• Clustering
+  — k-Means
+  — Hierarchical Cluster Analysis (HCA) — Expectation Maximization
+• Visualization and dimensionality reduction (to preserve as much structure as possible)  
+  — Principal Component Analysis (PCA)   
+  — Kernel PCA
+  — Locally-Linear Embedding (LLE)
+  — t-distributed Stochastic Neighbor Embedding (t-SNE)
+• Association rule learning
+  — Apriori 
+  — Eclat
 
 
 
