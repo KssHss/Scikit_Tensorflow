@@ -12,10 +12,21 @@ Spam filter: Performance measured as the ratio of correctly classified emails --
 
 Can be combined: a state-of-the-art spam filter may learn on the fly using a deep neural network model trained using examples of spam and ham; this makes it an online, model- based, supervised learning system.
 
-# Supervised: 
+### Supervised: 
 training data includes labels (desired solutions) or predictors.
 * Typical tasks: classification, predict a target numeric value (regression)
 Attribute is data type # feature ~ attribute + value (can be used interchangeably)
+
+Most important algorithms: 
+• k-Nearest Neighbors
+• Linear Regression
+• Logistic Regression (commonly used for classification: it can output the probability of belonging to a given class)
+• Support Vector Machines (SVMs)
+• Decision Trees and Random Forests
+• Neural networks (can be unsupervised or semi)  
+
+### Unsupervised:  
+
 
 
 
