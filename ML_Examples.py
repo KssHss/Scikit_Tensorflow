@@ -1,5 +1,14 @@
 # Linear Regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables.  
-# It assumes a linear relationship between the variables, meaning the relationship can be represented by a straight line. 
+# It assumes a linear relationship between the variables, meaning the relationship can be represented by a straight line.  
+
+# Formula:
+** y = mx + b **
+
+* y is the dependent variable (what we're trying to predict)
+* x is the independent variable (used to make predictions)
+* m is the slope of the line
+* b is the y-intercept (where the line crosses the y-axis)  
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
